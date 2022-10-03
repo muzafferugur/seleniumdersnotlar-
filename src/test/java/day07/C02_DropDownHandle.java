@@ -37,7 +37,7 @@ public class C02_DropDownHandle {
 
     @After
     public void tearDown(){
-        //driver.close();
+        driver.close();
 
     }
     @Test
